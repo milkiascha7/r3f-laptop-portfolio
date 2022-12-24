@@ -9,7 +9,7 @@ import {
 } from '@react-three/drei';
 
 import { Perf } from 'r3f-perf';
-import { Suspense, useRef } from 'react';
+import { Suspense } from 'react';
 
 // import { useControls } from 'leva';
 
